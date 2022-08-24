@@ -1,0 +1,10 @@
+D:\C#-Training\CustomersData\bin\Debug\netcoreapp3.1\CustomersData.deps.json
+D:\C#-Training\CustomersData\bin\Debug\netcoreapp3.1\CustomersData.dll
+D:\C#-Training\CustomersData\bin\Debug\netcoreapp3.1\CustomersData.pdb
+D:\C#-Training\CustomersData\obj\Debug\netcoreapp3.1\CustomersData.csproj.AssemblyReference.cache
+D:\C#-Training\CustomersData\obj\Debug\netcoreapp3.1\CustomersData.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\CustomersData\obj\Debug\netcoreapp3.1\CustomersData.AssemblyInfoInputs.cache
+D:\C#-Training\CustomersData\obj\Debug\netcoreapp3.1\CustomersData.AssemblyInfo.cs
+D:\C#-Training\CustomersData\obj\Debug\netcoreapp3.1\CustomersData.csproj.CoreCompileInputs.cache
+D:\C#-Training\CustomersData\obj\Debug\netcoreapp3.1\CustomersData.dll
+D:\C#-Training\CustomersData\obj\Debug\netcoreapp3.1\CustomersData.pdb

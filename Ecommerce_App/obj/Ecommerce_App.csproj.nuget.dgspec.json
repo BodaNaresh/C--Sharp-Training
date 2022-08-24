@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#-Training\\Ecommerce_App\\Ecommerce_App.csproj": {}
+  },
+  "projects": {
+    "D:\\C#-Training\\CustomersData\\CustomersData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\CustomersData\\CustomersData.csproj",
+        "projectName": "CustomersData",
+        "projectPath": "D:\\C#-Training\\CustomersData\\CustomersData.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\CustomersData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-Training\\Ecommerce_App\\Ecommerce_App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\Ecommerce_App\\Ecommerce_App.csproj",
+        "projectName": "Ecommerce_App",
+        "projectPath": "D:\\C#-Training\\Ecommerce_App\\Ecommerce_App.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\Ecommerce_App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C#-Training\\CustomersData\\CustomersData.csproj": {
+                "projectPath": "D:\\C#-Training\\CustomersData\\CustomersData.csproj"
+              },
+              "D:\\C#-Training\\ProductsData\\ProductsData.csproj": {
+                "projectPath": "D:\\C#-Training\\ProductsData\\ProductsData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#-Training\\ProductsData\\ProductsData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#-Training\\ProductsData\\ProductsData.csproj",
+        "projectName": "ProductsData",
+        "projectPath": "D:\\C#-Training\\ProductsData\\ProductsData.csproj",
+        "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+        "outputPath": "D:\\C#-Training\\ProductsData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

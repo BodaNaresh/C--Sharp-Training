@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ecommerce_App/1.0.0": {
+        "dependencies": {
+          "CustomersData": "1.0.0",
+          "ProductsData": "1.0.0"
+        },
+        "runtime": {
+          "Ecommerce_App.dll": {}
+        }
+      },
+      "CustomersData/1.0.0": {
+        "runtime": {
+          "CustomersData.dll": {}
+        }
+      },
+      "ProductsData/1.0.0": {
+        "runtime": {
+          "ProductsData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecommerce_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomersData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductsData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
