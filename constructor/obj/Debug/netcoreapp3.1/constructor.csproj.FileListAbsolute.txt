@@ -1,0 +1,10 @@
+D:\C#-Training\constructor\bin\Debug\netcoreapp3.1\constructor.deps.json
+D:\C#-Training\constructor\bin\Debug\netcoreapp3.1\constructor.dll
+D:\C#-Training\constructor\bin\Debug\netcoreapp3.1\constructor.pdb
+D:\C#-Training\constructor\obj\Debug\netcoreapp3.1\constructor.csproj.AssemblyReference.cache
+D:\C#-Training\constructor\obj\Debug\netcoreapp3.1\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\constructor\obj\Debug\netcoreapp3.1\constructor.AssemblyInfoInputs.cache
+D:\C#-Training\constructor\obj\Debug\netcoreapp3.1\constructor.AssemblyInfo.cs
+D:\C#-Training\constructor\obj\Debug\netcoreapp3.1\constructor.csproj.CoreCompileInputs.cache
+D:\C#-Training\constructor\obj\Debug\netcoreapp3.1\constructor.dll
+D:\C#-Training\constructor\obj\Debug\netcoreapp3.1\constructor.pdb

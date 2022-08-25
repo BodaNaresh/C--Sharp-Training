@@ -1,0 +1,10 @@
+D:\C#-Training\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\C#-Training\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\C#-Training\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\C#-Training\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+D:\C#-Training\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\C#-Training\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\C#-Training\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\C#-Training\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\C#-Training\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb

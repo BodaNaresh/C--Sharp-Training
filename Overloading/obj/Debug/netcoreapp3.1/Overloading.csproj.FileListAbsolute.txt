@@ -1,0 +1,10 @@
+D:\C#-Training\Overloading\bin\Debug\netcoreapp3.1\Overloading.deps.json
+D:\C#-Training\Overloading\bin\Debug\netcoreapp3.1\Overloading.dll
+D:\C#-Training\Overloading\bin\Debug\netcoreapp3.1\Overloading.pdb
+D:\C#-Training\Overloading\obj\Debug\netcoreapp3.1\Overloading.csproj.AssemblyReference.cache
+D:\C#-Training\Overloading\obj\Debug\netcoreapp3.1\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Overloading\obj\Debug\netcoreapp3.1\Overloading.AssemblyInfoInputs.cache
+D:\C#-Training\Overloading\obj\Debug\netcoreapp3.1\Overloading.AssemblyInfo.cs
+D:\C#-Training\Overloading\obj\Debug\netcoreapp3.1\Overloading.csproj.CoreCompileInputs.cache
+D:\C#-Training\Overloading\obj\Debug\netcoreapp3.1\Overloading.dll
+D:\C#-Training\Overloading\obj\Debug\netcoreapp3.1\Overloading.pdb

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practice/1.0.0": {
+        "dependencies": {
+          "Arrays": "1.0.0",
+          "Overloading": "1.0.0",
+          "constructor": "1.0.0"
+        },
+        "runtime": {
+          "Practice.dll": {}
+        }
+      },
+      "Arrays/1.0.0": {
+        "runtime": {
+          "Arrays.dll": {}
+        }
+      },
+      "constructor/1.0.0": {
+        "runtime": {
+          "constructor.dll": {}
+        }
+      },
+      "Overloading/1.0.0": {
+        "runtime": {
+          "Overloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Overloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
