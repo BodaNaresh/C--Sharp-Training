@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stucture", "Stucture.csproj", "{4993DD7D-D3A0-494D-A22A-06F51959346A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking", "..\Bank\Banking.csproj", "{44FE0EBE-CF4B-4963-B2E1-BF81126BA567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "..\Static\Static.csproj", "{23B36864-C91D-4032-B915-8FC4FB08F336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4993DD7D-D3A0-494D-A22A-06F51959346A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4993DD7D-D3A0-494D-A22A-06F51959346A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4993DD7D-D3A0-494D-A22A-06F51959346A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4993DD7D-D3A0-494D-A22A-06F51959346A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44FE0EBE-CF4B-4963-B2E1-BF81126BA567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FE0EBE-CF4B-4963-B2E1-BF81126BA567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FE0EBE-CF4B-4963-B2E1-BF81126BA567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FE0EBE-CF4B-4963-B2E1-BF81126BA567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B36864-C91D-4032-B915-8FC4FB08F336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B36864-C91D-4032-B915-8FC4FB08F336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B36864-C91D-4032-B915-8FC4FB08F336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B36864-C91D-4032-B915-8FC4FB08F336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370CD9D8-EE01-4E90-8B34-DFCFE3624CB3}
+	EndGlobalSection
+EndGlobal

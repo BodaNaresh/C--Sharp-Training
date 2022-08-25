@@ -1,0 +1,10 @@
+D:\C#-Training\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+D:\C#-Training\Static\bin\Debug\netcoreapp3.1\Static.dll
+D:\C#-Training\Static\bin\Debug\netcoreapp3.1\Static.pdb
+D:\C#-Training\Static\obj\Debug\netcoreapp3.1\Static.csproj.AssemblyReference.cache
+D:\C#-Training\Static\obj\Debug\netcoreapp3.1\Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+D:\C#-Training\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+D:\C#-Training\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+D:\C#-Training\Static\obj\Debug\netcoreapp3.1\Static.dll
+D:\C#-Training\Static\obj\Debug\netcoreapp3.1\Static.pdb

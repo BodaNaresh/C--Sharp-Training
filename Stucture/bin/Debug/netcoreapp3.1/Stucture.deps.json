@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Stucture/1.0.0": {
+        "dependencies": {
+          "Banking": "1.0.0",
+          "Static": "1.0.0"
+        },
+        "runtime": {
+          "Stucture.dll": {}
+        }
+      },
+      "Banking/1.0.0": {
+        "runtime": {
+          "Banking.dll": {}
+        }
+      },
+      "Static/1.0.0": {
+        "runtime": {
+          "Static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stucture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Banking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

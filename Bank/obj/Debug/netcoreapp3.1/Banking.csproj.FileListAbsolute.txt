@@ -1,0 +1,10 @@
+D:\C#-Training\Bank\bin\Debug\netcoreapp3.1\Banking.deps.json
+D:\C#-Training\Bank\bin\Debug\netcoreapp3.1\Banking.dll
+D:\C#-Training\Bank\bin\Debug\netcoreapp3.1\Banking.pdb
+D:\C#-Training\Bank\obj\Debug\netcoreapp3.1\Banking.csproj.AssemblyReference.cache
+D:\C#-Training\Bank\obj\Debug\netcoreapp3.1\Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Bank\obj\Debug\netcoreapp3.1\Banking.AssemblyInfoInputs.cache
+D:\C#-Training\Bank\obj\Debug\netcoreapp3.1\Banking.AssemblyInfo.cs
+D:\C#-Training\Bank\obj\Debug\netcoreapp3.1\Banking.csproj.CoreCompileInputs.cache
+D:\C#-Training\Bank\obj\Debug\netcoreapp3.1\Banking.dll
+D:\C#-Training\Bank\obj\Debug\netcoreapp3.1\Banking.pdb
