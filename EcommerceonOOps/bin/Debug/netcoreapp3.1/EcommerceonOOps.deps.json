@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EcommerceonOOps/1.0.0": {
+        "dependencies": {
+          "AllCommonInfo": "1.0.0",
+          "CustomerInformation": "1.0.0",
+          "OrderInformation": "1.0.0",
+          "productsInformation": "1.0.0"
+        },
+        "runtime": {
+          "EcommerceonOOps.dll": {}
+        }
+      },
+      "AllCommonInfo/1.0.0": {
+        "runtime": {
+          "AllCommonInfo.dll": {}
+        }
+      },
+      "CustomerInformation/1.0.0": {
+        "dependencies": {
+          "AllCommonInfo": "1.0.0"
+        },
+        "runtime": {
+          "CustomerInformation.dll": {}
+        }
+      },
+      "OrderInformation/1.0.0": {
+        "dependencies": {
+          "AllCommonInfo": "1.0.0"
+        },
+        "runtime": {
+          "OrderInformation.dll": {}
+        }
+      },
+      "productsInformation/1.0.0": {
+        "dependencies": {
+          "AllCommonInfo": "1.0.0"
+        },
+        "runtime": {
+          "productsInformation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcommerceonOOps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AllCommonInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerInformation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderInformation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "productsInformation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

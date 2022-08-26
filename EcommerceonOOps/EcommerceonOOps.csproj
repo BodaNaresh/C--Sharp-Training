@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AllCommonInfo\AllCommonInfo.csproj" />
+    <ProjectReference Include="..\CustomerInformation\CustomerInformation.csproj" />
+    <ProjectReference Include="..\OrderInformation\OrderInformation.csproj" />
+    <ProjectReference Include="..\productsInformation\productsInformation.csproj" />
+  </ItemGroup>
+
+</Project>

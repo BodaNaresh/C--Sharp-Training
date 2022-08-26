@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AllCommonInfo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AllCommonInfo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AllCommonInfo.dll": {}
+        }
+      },
+      "CustomerInformation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AllCommonInfo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CustomerInformation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerInformation.dll": {}
+        }
+      },
+      "OrderInformation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AllCommonInfo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OrderInformation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderInformation.dll": {}
+        }
+      },
+      "productsInformation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AllCommonInfo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/productsInformation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/productsInformation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllCommonInfo/1.0.0": {
+      "type": "project",
+      "path": "../AllCommonInfo/AllCommonInfo.csproj",
+      "msbuildProject": "../AllCommonInfo/AllCommonInfo.csproj"
+    },
+    "CustomerInformation/1.0.0": {
+      "type": "project",
+      "path": "../CustomerInformation/CustomerInformation.csproj",
+      "msbuildProject": "../CustomerInformation/CustomerInformation.csproj"
+    },
+    "OrderInformation/1.0.0": {
+      "type": "project",
+      "path": "../OrderInformation/OrderInformation.csproj",
+      "msbuildProject": "../OrderInformation/OrderInformation.csproj"
+    },
+    "productsInformation/1.0.0": {
+      "type": "project",
+      "path": "../productsInformation/productsInformation.csproj",
+      "msbuildProject": "../productsInformation/productsInformation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AllCommonInfo >= 1.0.0",
+      "CustomerInformation >= 1.0.0",
+      "OrderInformation >= 1.0.0",
+      "productsInformation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\naresh.boda\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#-Training\\EcommerceonOOps\\EcommerceonOOps.csproj",
+      "projectName": "EcommerceonOOps",
+      "projectPath": "D:\\C#-Training\\EcommerceonOOps\\EcommerceonOOps.csproj",
+      "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+      "outputPath": "D:\\C#-Training\\EcommerceonOOps\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\C#-Training\\AllCommonInfo\\AllCommonInfo.csproj": {
+              "projectPath": "D:\\C#-Training\\AllCommonInfo\\AllCommonInfo.csproj"
+            },
+            "D:\\C#-Training\\CustomerInformation\\CustomerInformation.csproj": {
+              "projectPath": "D:\\C#-Training\\CustomerInformation\\CustomerInformation.csproj"
+            },
+            "D:\\C#-Training\\OrderInformation\\OrderInformation.csproj": {
+              "projectPath": "D:\\C#-Training\\OrderInformation\\OrderInformation.csproj"
+            },
+            "D:\\C#-Training\\productsInformation\\productsInformation.csproj": {
+              "projectPath": "D:\\C#-Training\\productsInformation\\productsInformation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
