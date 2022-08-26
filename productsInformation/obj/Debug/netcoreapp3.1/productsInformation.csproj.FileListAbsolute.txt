@@ -1,0 +1,13 @@
+D:\C#-Training\productsInformation\bin\Debug\netcoreapp3.1\productsInformation.deps.json
+D:\C#-Training\productsInformation\bin\Debug\netcoreapp3.1\productsInformation.dll
+D:\C#-Training\productsInformation\bin\Debug\netcoreapp3.1\productsInformation.pdb
+D:\C#-Training\productsInformation\bin\Debug\netcoreapp3.1\AllCommonInfo.dll
+D:\C#-Training\productsInformation\bin\Debug\netcoreapp3.1\AllCommonInfo.pdb
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.csproj.AssemblyReference.cache
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.AssemblyInfoInputs.cache
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.AssemblyInfo.cs
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.csproj.CoreCompileInputs.cache
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.csproj.CopyComplete
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.dll
+D:\C#-Training\productsInformation\obj\Debug\netcoreapp3.1\productsInformation.pdb
