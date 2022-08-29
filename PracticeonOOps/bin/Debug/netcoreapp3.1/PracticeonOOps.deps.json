@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PracticeonOOps/1.0.0": {
+        "dependencies": {
+          "AbstractExample": "1.0.0",
+          "ListExamples": "1.0.0"
+        },
+        "runtime": {
+          "PracticeonOOps.dll": {}
+        }
+      },
+      "AbstractExample/1.0.0": {
+        "runtime": {
+          "AbstractExample.dll": {}
+        }
+      },
+      "ListExamples/1.0.0": {
+        "runtime": {
+          "ListExamples.dll": {}
+        }
+      },
+      "Partial Example/1.0.0": {
+        "runtime": {
+          "Partial Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticeonOOps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListExamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Partial Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.csproj.AssemblyReference.cache
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.AssemblyInfoInputs.cache
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.AssemblyInfo.cs
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.csproj.CoreCompileInputs.cache
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\PracticeonOOps.exe
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\PracticeonOOps.deps.json
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\PracticeonOOps.runtimeconfig.json
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\PracticeonOOps.runtimeconfig.dev.json
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\PracticeonOOps.dll
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\PracticeonOOps.pdb
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\ListExamples.dll
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\ListExamples.pdb
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.csproj.CopyComplete
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.dll
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.pdb
+D:\C#-Training\PracticeonOOps\obj\Debug\netcoreapp3.1\PracticeonOOps.genruntimeconfig.cache
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\Partial Example.dll
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\Partial Example.pdb
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\AbstractExample.dll
+D:\C#-Training\PracticeonOOps\bin\Debug\netcoreapp3.1\AbstractExample.pdb
