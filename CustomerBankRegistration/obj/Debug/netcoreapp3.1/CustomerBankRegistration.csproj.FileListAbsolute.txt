@@ -1,0 +1,10 @@
+D:\C#-Training\CustomerBankRegistration\bin\Debug\netcoreapp3.1\CustomerBankRegistration.deps.json
+D:\C#-Training\CustomerBankRegistration\bin\Debug\netcoreapp3.1\CustomerBankRegistration.dll
+D:\C#-Training\CustomerBankRegistration\bin\Debug\netcoreapp3.1\CustomerBankRegistration.pdb
+D:\C#-Training\CustomerBankRegistration\obj\Debug\netcoreapp3.1\CustomerBankRegistration.csproj.AssemblyReference.cache
+D:\C#-Training\CustomerBankRegistration\obj\Debug\netcoreapp3.1\CustomerBankRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\CustomerBankRegistration\obj\Debug\netcoreapp3.1\CustomerBankRegistration.AssemblyInfoInputs.cache
+D:\C#-Training\CustomerBankRegistration\obj\Debug\netcoreapp3.1\CustomerBankRegistration.AssemblyInfo.cs
+D:\C#-Training\CustomerBankRegistration\obj\Debug\netcoreapp3.1\CustomerBankRegistration.csproj.CoreCompileInputs.cache
+D:\C#-Training\CustomerBankRegistration\obj\Debug\netcoreapp3.1\CustomerBankRegistration.dll
+D:\C#-Training\CustomerBankRegistration\obj\Debug\netcoreapp3.1\CustomerBankRegistration.pdb
