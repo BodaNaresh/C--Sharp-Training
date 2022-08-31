@@ -1,0 +1,10 @@
+D:\C#-Training\datareader\bin\Debug\netcoreapp3.1\datareader.deps.json
+D:\C#-Training\datareader\bin\Debug\netcoreapp3.1\datareader.dll
+D:\C#-Training\datareader\bin\Debug\netcoreapp3.1\datareader.pdb
+D:\C#-Training\datareader\obj\Debug\netcoreapp3.1\datareader.csproj.AssemblyReference.cache
+D:\C#-Training\datareader\obj\Debug\netcoreapp3.1\datareader.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\datareader\obj\Debug\netcoreapp3.1\datareader.AssemblyInfoInputs.cache
+D:\C#-Training\datareader\obj\Debug\netcoreapp3.1\datareader.AssemblyInfo.cs
+D:\C#-Training\datareader\obj\Debug\netcoreapp3.1\datareader.csproj.CoreCompileInputs.cache
+D:\C#-Training\datareader\obj\Debug\netcoreapp3.1\datareader.dll
+D:\C#-Training\datareader\obj\Debug\netcoreapp3.1\datareader.pdb
