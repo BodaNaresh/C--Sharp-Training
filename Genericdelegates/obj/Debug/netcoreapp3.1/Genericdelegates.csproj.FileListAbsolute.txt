@@ -1,0 +1,10 @@
+D:\C#-Training\Genericdelegates\bin\Debug\netcoreapp3.1\Genericdelegates.deps.json
+D:\C#-Training\Genericdelegates\bin\Debug\netcoreapp3.1\Genericdelegates.dll
+D:\C#-Training\Genericdelegates\bin\Debug\netcoreapp3.1\Genericdelegates.pdb
+D:\C#-Training\Genericdelegates\obj\Debug\netcoreapp3.1\Genericdelegates.csproj.AssemblyReference.cache
+D:\C#-Training\Genericdelegates\obj\Debug\netcoreapp3.1\Genericdelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Genericdelegates\obj\Debug\netcoreapp3.1\Genericdelegates.AssemblyInfoInputs.cache
+D:\C#-Training\Genericdelegates\obj\Debug\netcoreapp3.1\Genericdelegates.AssemblyInfo.cs
+D:\C#-Training\Genericdelegates\obj\Debug\netcoreapp3.1\Genericdelegates.csproj.CoreCompileInputs.cache
+D:\C#-Training\Genericdelegates\obj\Debug\netcoreapp3.1\Genericdelegates.dll
+D:\C#-Training\Genericdelegates\obj\Debug\netcoreapp3.1\Genericdelegates.pdb

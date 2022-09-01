@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "delegateexample/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/delegateexample.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/delegateexample.dll": {}
+        }
+      },
+      "Genericdelegates/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Genericdelegates.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Genericdelegates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "delegateexample/1.0.0": {
+      "type": "project",
+      "path": "../delegateexample/delegateexample.csproj",
+      "msbuildProject": "../delegateexample/delegateexample.csproj"
+    },
+    "Genericdelegates/1.0.0": {
+      "type": "project",
+      "path": "../Genericdelegates/Genericdelegates.csproj",
+      "msbuildProject": "../Genericdelegates/Genericdelegates.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Genericdelegates >= 1.0.0",
+      "delegateexample >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\naresh.boda\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#-Training\\Delegates\\Delegates.csproj",
+      "projectName": "Delegates",
+      "projectPath": "D:\\C#-Training\\Delegates\\Delegates.csproj",
+      "packagesPath": "C:\\Users\\naresh.boda\\.nuget\\packages\\",
+      "outputPath": "D:\\C#-Training\\Delegates\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\naresh.boda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://meridianlink.jfrog.io/artifactory/api/nuget/lqb-nuget": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\C#-Training\\delegateexample\\delegateexample.csproj": {
+              "projectPath": "D:\\C#-Training\\delegateexample\\delegateexample.csproj"
+            },
+            "D:\\C#-Training\\Genericdelegates\\Genericdelegates.csproj": {
+              "projectPath": "D:\\C#-Training\\Genericdelegates\\Genericdelegates.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

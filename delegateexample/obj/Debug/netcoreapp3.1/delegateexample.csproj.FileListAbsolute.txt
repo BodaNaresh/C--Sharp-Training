@@ -1,0 +1,10 @@
+D:\C#-Training\delegateexample\bin\Debug\netcoreapp3.1\delegateexample.deps.json
+D:\C#-Training\delegateexample\bin\Debug\netcoreapp3.1\delegateexample.dll
+D:\C#-Training\delegateexample\bin\Debug\netcoreapp3.1\delegateexample.pdb
+D:\C#-Training\delegateexample\obj\Debug\netcoreapp3.1\delegateexample.csproj.AssemblyReference.cache
+D:\C#-Training\delegateexample\obj\Debug\netcoreapp3.1\delegateexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\delegateexample\obj\Debug\netcoreapp3.1\delegateexample.AssemblyInfoInputs.cache
+D:\C#-Training\delegateexample\obj\Debug\netcoreapp3.1\delegateexample.AssemblyInfo.cs
+D:\C#-Training\delegateexample\obj\Debug\netcoreapp3.1\delegateexample.csproj.CoreCompileInputs.cache
+D:\C#-Training\delegateexample\obj\Debug\netcoreapp3.1\delegateexample.dll
+D:\C#-Training\delegateexample\obj\Debug\netcoreapp3.1\delegateexample.pdb

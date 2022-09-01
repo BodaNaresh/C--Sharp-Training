@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Delegates/1.0.0": {
+        "dependencies": {
+          "Genericdelegates": "1.0.0",
+          "delegateexample": "1.0.0"
+        },
+        "runtime": {
+          "Delegates.dll": {}
+        }
+      },
+      "delegateexample/1.0.0": {
+        "runtime": {
+          "delegateexample.dll": {}
+        }
+      },
+      "Genericdelegates/1.0.0": {
+        "runtime": {
+          "Genericdelegates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "delegateexample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Genericdelegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
