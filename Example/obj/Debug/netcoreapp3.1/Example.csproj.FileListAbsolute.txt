@@ -1,0 +1,10 @@
+D:\C#-Training\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+D:\C#-Training\Example\bin\Debug\netcoreapp3.1\Example.dll
+D:\C#-Training\Example\bin\Debug\netcoreapp3.1\Example.pdb
+D:\C#-Training\Example\obj\Debug\netcoreapp3.1\Example.csproj.AssemblyReference.cache
+D:\C#-Training\Example\obj\Debug\netcoreapp3.1\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+D:\C#-Training\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+D:\C#-Training\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+D:\C#-Training\Example\obj\Debug\netcoreapp3.1\Example.dll
+D:\C#-Training\Example\obj\Debug\netcoreapp3.1\Example.pdb
