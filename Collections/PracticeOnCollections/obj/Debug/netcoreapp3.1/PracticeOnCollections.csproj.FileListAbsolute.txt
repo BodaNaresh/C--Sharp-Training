@@ -1,0 +1,14 @@
+D:\C#-Training\Collections\PracticeOnCollections\bin\Debug\netcoreapp3.1\PracticeOnCollections.exe
+D:\C#-Training\Collections\PracticeOnCollections\bin\Debug\netcoreapp3.1\PracticeOnCollections.deps.json
+D:\C#-Training\Collections\PracticeOnCollections\bin\Debug\netcoreapp3.1\PracticeOnCollections.runtimeconfig.json
+D:\C#-Training\Collections\PracticeOnCollections\bin\Debug\netcoreapp3.1\PracticeOnCollections.runtimeconfig.dev.json
+D:\C#-Training\Collections\PracticeOnCollections\bin\Debug\netcoreapp3.1\PracticeOnCollections.dll
+D:\C#-Training\Collections\PracticeOnCollections\bin\Debug\netcoreapp3.1\PracticeOnCollections.pdb
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.csproj.AssemblyReference.cache
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.AssemblyInfoInputs.cache
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.AssemblyInfo.cs
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.csproj.CoreCompileInputs.cache
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.dll
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.pdb
+D:\C#-Training\Collections\PracticeOnCollections\obj\Debug\netcoreapp3.1\PracticeOnCollections.genruntimeconfig.cache
