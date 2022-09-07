@@ -1,0 +1,16 @@
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.csproj.AssemblyReference.cache
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.AssemblyInfoInputs.cache
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.AssemblyInfo.cs
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.csproj.CoreCompileInputs.cache
+D:\C#-Training\ATMProject\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.exe
+D:\C#-Training\ATMProject\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.deps.json
+D:\C#-Training\ATMProject\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.runtimeconfig.json
+D:\C#-Training\ATMProject\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.runtimeconfig.dev.json
+D:\C#-Training\ATMProject\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.dll
+D:\C#-Training\ATMProject\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.pdb
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.dll
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.pdb
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.genruntimeconfig.cache
+D:\C#-Training\ATMProject\ATMApp\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+D:\C#-Training\ATMProject\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.csproj.CopyComplete
