@@ -1,0 +1,14 @@
+D:\C#-Training\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.exe
+D:\C#-Training\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.deps.json
+D:\C#-Training\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.runtimeconfig.json
+D:\C#-Training\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.runtimeconfig.dev.json
+D:\C#-Training\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.dll
+D:\C#-Training\MultiThreading\bin\Debug\netcoreapp3.1\MultiThreading.pdb
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.csproj.AssemblyReference.cache
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.AssemblyInfoInputs.cache
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.AssemblyInfo.cs
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.csproj.CoreCompileInputs.cache
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.dll
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.pdb
+D:\C#-Training\MultiThreading\obj\Debug\netcoreapp3.1\MultiThreading.genruntimeconfig.cache
