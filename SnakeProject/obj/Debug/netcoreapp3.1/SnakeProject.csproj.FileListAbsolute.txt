@@ -1,0 +1,14 @@
+D:\C#-Training\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.exe
+D:\C#-Training\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.deps.json
+D:\C#-Training\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.runtimeconfig.json
+D:\C#-Training\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.runtimeconfig.dev.json
+D:\C#-Training\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.dll
+D:\C#-Training\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.pdb
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.csproj.AssemblyReference.cache
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.AssemblyInfoInputs.cache
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.AssemblyInfo.cs
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.csproj.CoreCompileInputs.cache
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.dll
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.pdb
+D:\C#-Training\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.genruntimeconfig.cache
